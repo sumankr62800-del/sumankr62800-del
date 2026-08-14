@@ -2,7 +2,9 @@
 
 ### Python Developer | AI/ML Enthusiast | Computer Vision | Backend Development
 
-I'm a B.Tech Elecronics and Communication student focused on building practical applications using **Python, Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development**.
+### Python Developer | AI/ML | Computer Vision | Backend Development
+
+I'm a B.Tech Electronics & Communication Engineering student focused on building practical applications using Python, Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development.
 
 I enjoy solving real-world problems through software and continuously improving my skills by building and experimenting with projects.
 
