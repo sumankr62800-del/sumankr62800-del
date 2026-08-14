@@ -1,7 +1,5 @@
 # Hi, I'm Suman Kumar 👋
 
-### Python Developer | AI/ML Enthusiast | Computer Vision | Backend Development
-
 ### Python Developer | AI/ML | Computer Vision | Backend Development
 
 I'm a B.Tech Electronics & Communication Engineering student focused on building practical applications using Python, Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development.
