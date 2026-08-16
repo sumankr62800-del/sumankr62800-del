@@ -78,7 +78,7 @@ A computer-vision-based traffic management system using YOLOv8 to detect and ana
 
 **Tech Stack:** Python · YOLOv8 · OpenCV · Computer Vision · Tkinter
 
-
+url :https://github.com/sumankr62800-del/Dynamic-Traffic-control-system
 
 ---
 
