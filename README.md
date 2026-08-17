@@ -77,8 +77,16 @@ A Python/FastAPI-based cybersecurity platform designed to combine secure communi
 A computer-vision-based traffic management system using YOLOv8 to detect and analyze vehicles and support dynamic traffic signal decisions.
 
 **Tech Stack:** Python · YOLOv8 · OpenCV · Computer Vision · Tkinter
+URL :https://github.com/sumankr62800-del/Dynamic-Traffic-control-system
 
-url :https://github.com/sumankr62800-del/Dynamic-Traffic-control-system
+###🛡️ AI Cyber Threat Detection
+
+Machine Learning Based Network Intrusion Detection System
+
+An AI-powered cybersecurity system that analyzes network traffic using **Machine Learning** to detect suspicious activity, classify traffic as normal or attack, estimate attack probability, and assign risk levels.
+
+**Tech Stack: Python · Pandas · NumPy · Scikit-learn · Random Forest · Streamlit · Joblib · UNSW-NB15
+URL :https://ai-cyber-threat-detection-n8dsh7v7xe9jf2jctnexth.streamlit.app/
 
 ---
 
