@@ -68,7 +68,7 @@ A Python/FastAPI-based cybersecurity platform designed to combine secure communi
 
 **Tech Stack:** Python · FastAPI · SQLAlchemy · SQLite · REST API · AI/ML
 
-URL : currenly working
+URL : https://quantumshield-beryl.vercel.app/
 
 
 
